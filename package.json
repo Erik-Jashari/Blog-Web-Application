@@ -1,0 +1,26 @@
+{
+  "name": "blog-web-application",
+  "version": "1.0.0",
+  "description": "Blog Web Application (Node.js + Express)\r 📌 Description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik-Jashari/Blog-Web-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Erik-Jashari/Blog-Web-Application/issues"
+  },
+  "homepage": "https://github.com/Erik-Jashari/Blog-Web-Application#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  },
+  "devDependencies": {}
+}
